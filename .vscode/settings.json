@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Anaconda\\envs\\CourseRecommendation\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Home\\Git\\CourseRecommendation\\CourseRecommendation"
+    ]
+}
